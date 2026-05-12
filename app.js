@@ -74,7 +74,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "KSHETRIMAYUM PETERSON SINGH",
     roll: "NDUI-BScCS-016", course: "B.Sc. Computer Science", section: "BSc CS",
-    meme: "images/NDUI-BScCS-016", reason: "found funny" },
+    meme: "images/NDUI-BScCS-016.jpeg", reason: "found funny" },
   { name: "MOCHANTHING MAKUNGA",
     roll: "NDUI-BScCS-018", course: "B.Sc. Computer Science", section: "BSc CS",
     meme: null, reason: null },
